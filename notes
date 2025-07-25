@@ -1,0 +1,5 @@
+# Development
+
+Use Dumpify to show variable data:
+
+`dotnet add package Dumpify`
