@@ -3,6 +3,7 @@
 ## Sources
 
 - [YT: Every Single LINQ Extension Method With Examples | .NET & C# Essentials (2:24)](https://www.youtube.com/watch?v=7-P6Mxl5elg)
+- [Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/linq)
 
 ## Theory
 
